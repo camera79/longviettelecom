@@ -1,0 +1,2 @@
+# longviettelecom
+Long Việt Telecom một trong những công ty viễn thông có đội ngũ nhân viên năng động, tâm huyết và đầy tinh thần sáng tạo, được đào tạo sâu về chuyên môn. Với những kinh nghiệm được tích lũy từ thực tế trong quá trình tư vấn, triển khai lắp đặt nhiều dự án cho các doanh nghiệp, cơ quan đơn vị trong nhiều lĩnh vực. Chúng tôi tự hào là nhà cung cấp dịch vụ, giải pháp và sản phẩm công nghệ trong các lĩnh vực (tổng đài điện thoại, hệ thống mạng - wifi, camera giám sát…)
